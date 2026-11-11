@@ -1,0 +1,19 @@
+What was your primary contribution to the project?
+
+My primary contribution was developing the core software logic for the Smart Classroom Comfort Monitor, which included handling temperature input evaluation, status determination (NORMAL versus WARNING), file logging operations, and controlling the warning LED.
+
+What was the most challenging technical problem your team encountered?
+
+The most challenging technical hurdle was coordinating the hardware-software integration between the Raspberry Pi GPIO pins and our application logic to ensure the LED correctly reflected state changes without runtime issues.
+
+How did your team use testing or debugging to solve a problem?
+
+We used systematic test cases with boundary and extreme temperature values (such as testing normal ranges like 72°F alongside warning conditions like 79°F and 65°F) to verify that conditional statements, logging outputs, and LED triggers functioned precisely as required.
+
+Which skills from CSE 1106 were most useful?
+
+Core programming logic, conditional structures, file handling, and structured software testing methodologies were the most vital skills applied from the course.
+
+What would you improve if you had more time?
+
+If we had more time, we would integrate a physical ambient temperature sensor (such as a DHT11 or DHT22) to pull real-time classroom readings automatically instead of relying entirely on manual keyboard input.
