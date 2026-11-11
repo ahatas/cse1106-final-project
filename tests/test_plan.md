@@ -1,0 +1,4 @@
+Temp      System Status       Warning LED                           Temp              System Status          Warning LED                         Temp                  System Status               Warning LED 
+70F       Normal              OFF                                   80F               Warning                ON                                  60F                   Warning                     ON
+79F       Warning             ON                                    65F               Warning                ON                                  74F                   Normal                      OFF
+83F       Warning              ON                                   75F               Normal                 OFF                                 62F                   Warning                     ON
